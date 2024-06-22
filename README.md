@@ -27,7 +27,7 @@
 - Jupyter - version 7.0.8
 
 ## Acknowledgements
-- This project is being done as part of the IIIT Bangalore Executive Post Graduate Programme in Machine Learning & AI.
+- This project is done as part of the IIIT Bangalore Executive PG Programme in Machine Learning & AI.
 
 ## Contact
 Created by [@lokeshchenta] - feel free to contact me!
