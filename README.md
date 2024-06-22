@@ -1,5 +1,5 @@
-# Project Name
-> Outline a brief description of your project.
+# Lending Club Case Study
+> This is a case study project that uses Exploratory Data Analytics(EDA) technique. It uses loan data set, from banking or financial services domain to perform risk analytics. The analysis helps the company in understanding the factors that might lead to loan defaults. This helps in reducing the risk or loss due to defaults when processing new loan applications for approval.
 
 
 ## Table of Contents
@@ -8,38 +8,26 @@
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
-<!-- You can include any other section that is pertinent to your problem -->
-
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+- This project is for a large financial company that provides various types of loans to applicants. 
+- The purpose of this project is to minimize credit loss to the company due to loan default by borrowers.
+- A data set is available that contains historic data with details (both loan related and borrower related data) for each loan provided by the company.
+- The objective is to use data analytics to analyze this loan data set and determine the factors(variables) that influence loan default.
+- These factors will help the company when issuing new loans to predict the risk and minimize the risk by deciding whether to accept or reject the new loan application. 
 
 ## Conclusions
 - Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
-
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
+- Python - version 3.11.7
+- Pandas - version 2.1.4
+- Seaborn - version 0.12.2
+- Matplotlib - version 3.8.0
+- Jupyter - version 7.0.8
 
 ## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
+- This project is being done as part of the IIIT Bangalore Executive Post Graduate Programme in Machine Learning & AI.
 
 ## Contact
 Created by [@lokeshchenta] - feel free to contact me!
