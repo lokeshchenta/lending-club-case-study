@@ -24,7 +24,7 @@
 - Pandas - version 2.1.4
 - Seaborn - version 0.12.2
 - Matplotlib - version 3.8.0
-- Jupyter - version 7.0.8
+- Jupyter Notebook - version 7.0.8
 
 ## Acknowledgements
 - This project is done as part of the IIIT Bangalore Executive PG Programme in Machine Learning & AI.
