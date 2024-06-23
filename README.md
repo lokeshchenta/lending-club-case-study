@@ -16,12 +16,13 @@
 - These factors will help the company when issuing new loans to predict the risk and minimize the risk by deciding whether to accept or reject the new loan application. 
 
 ## Conclusions
-- Conclusion 1 from the analysis
+- 
 
 
 ## Technologies Used
 - Python - version 3.11.7
 - Pandas - version 2.1.4
+- Numpy - version 1.26.4
 - Seaborn - version 0.12.2
 - Matplotlib - version 3.8.0
 - Jupyter Notebook - version 7.0.8
@@ -30,4 +31,4 @@
 - This project is done as part of the IIIT Bangalore Executive PG Programme in Machine Learning & AI.
 
 ## Contact
-Created by [@lokeshchenta] - feel free to contact me!
+Contributors - Lokesh Chenta, Mohammed Aamish
