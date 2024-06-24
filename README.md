@@ -16,7 +16,15 @@
 - These factors will help the company when issuing new loans to predict the risk and minimize the risk by deciding whether to accept or reject the new loan application. 
 
 ## Conclusions
-- 
+The following are the key driving factors(driver variables) behind loan default
+- Loan Related Variables
+  - Interest Rate
+  - Loan Term
+- Loan Purpose
+  - Application Related Variables
+  - Grade
+  - Employment Experience
+
 
 
 ## Technologies Used
